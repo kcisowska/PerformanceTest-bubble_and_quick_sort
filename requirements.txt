@@ -1,3 +1,4 @@
 radiant==3.2.2
 psutil==5.7.2
 pytest-repeat==0.9.1
+watermark==2.2.0
